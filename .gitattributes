@@ -1,3 +1,5 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
 *uasset filter=lfs diff=lfs merge=lfs -text
 *.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/** filter=lfs diff=lfs merge=lfs -text lockable
+*.gonz filter=lfs diff=lfs merge=lfs -text lockable
